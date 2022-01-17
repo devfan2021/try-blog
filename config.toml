@@ -19,7 +19,7 @@ disqusShortname = "yourdiscussshortname"  ## 是否开启disqus评论，不要�
 
 [params]
   author = "devfan"
-  subtitle = "专注于Java、移动互联网、项目管理、软件架构"
+  subtitle = "专注于软件架构、云原生"
   keywords = "java,软件架构,公众号,小程序"
   description = "专注于IT互联网，包括但不限于Go语言(golang)、Java、Python、项目管理、软件架构等"
   busuanzi = true #启用不算子网页统计
